@@ -6,8 +6,8 @@ I'm an aspiring **Full-Stack Developer** from Switzerland 🇨🇭
 ---
 
 ### About Me
-- 💻 Building **custom web-applications** for small businesses and individuals.
-- 🌱 Always exploring new technologies and improving my skills.
+-  Building **custom web-applications** for small businesses and individuals.
+-  Always exploring new technologies and improving my skills.
 
 ---
 
